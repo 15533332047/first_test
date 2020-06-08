@@ -8,6 +8,7 @@ class FirstTestApplicationTests {
 
     @Test
     void contextLoads() {
+        int i = 0;
     }
 
 }
